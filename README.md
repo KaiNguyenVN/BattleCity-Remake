@@ -1,1 +1,1 @@
-# BattleCity
+# BattleCity – WinForms remake (learning .NET 8 & OOP)
